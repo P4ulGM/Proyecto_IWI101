@@ -5,8 +5,8 @@ from django.shortcuts import render, HttpResponse
 def home(request):
     return render(request, "ProyectoWebApp/home.html")
 
-def servicios(request):
-    return render(request, "ProyectoWebApp/servicios.html")
+def tutoriales(request):
+    return render(request, "ProyectoWebApp/tutoriales.html")
 
 def blog(request):
     return render(request, "ProyectoWebApp/blog.html")
