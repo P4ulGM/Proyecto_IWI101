@@ -1,3 +1,3 @@
-# Proyecto_IWI101
+# Proyecto_IWG101
 Proyecto USM IWI101-2021
 Python-Django
