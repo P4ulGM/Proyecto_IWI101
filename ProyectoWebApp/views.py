@@ -14,3 +14,6 @@ def blog(request):
 def contacto(request):
     return render(request, "ProyectoWebApp/contacto.html")
 
+def whatsapp(request):
+    return render(request, "ProyectoWebApp/whatsapp.html")
+
