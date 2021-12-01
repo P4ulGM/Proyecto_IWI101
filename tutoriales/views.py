@@ -9,3 +9,12 @@ def tutoriales(request):
 
 def whatsapp(request):
     return render(request, "tutoriales/whatsapp.html")
+
+def youtube(request):
+    return render(request, "tutoriales/youtube.html")
+
+def facebook(request):
+    return render(request, "tutoriales/facebook.html")
+
+def google(request):
+    return render(request, "tutoriales/google.html")
